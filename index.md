@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Privacy Policy for Day Zero Alexa Skill
 
-You can use the [editor on GitHub](https://github.com/bighousing/bighousing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy describes how Big Housing (“Big Housing”, “us” or “we”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”). Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skill) and other related Software. If you use one of our skills you fully agree to this privacy policy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General 
+When you use our skills you have to talk to Alexa. This voice input is sent to Amazon and us where we use it to understand what our skill should do for you. This is absolutely necessary for our service to give you an appropriate answer. 
 
-### Markdown
+## Data
+We collect and share personal data. You give Big Housing permission to distribute your contact information to other users of our skill for the purpose of roommate matching ONLY. To improve our services we analyze automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal. We save your personal information in our database for the purpose of roommate matching ONLY.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bighousing/bighousing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Changes
+Our skills or parts of it may change or be updated at any time. Further, this Privacy Policy might change. Your continued use of our skill after changes of the Privacy Policy or the skill itself will be seen as your acceptance of both.
