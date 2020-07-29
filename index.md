@@ -1,4 +1,4 @@
-# Privacy Policy for Day Zero Alexa Skill
+# Privacy Policy for Day Zero
 
 This privacy policy describes how Big Housing (“Big Housing”, “us” or “we”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills (“our skills”), please read this policy as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”). Regarding Amazon, “Alexa” means their Alexa Voice Service which includes third party services (like our skill) and other related Software. If you use one of our skills you fully agree to this privacy policy. 
 
